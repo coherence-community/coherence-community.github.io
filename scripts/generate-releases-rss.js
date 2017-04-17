@@ -86,7 +86,7 @@ var generateReleasesModule = (function () {
                 '    <title>Coherence Releases Feed</title>\n' +
                 '    <description>Coherence Releases</description>\n' +
                 '    <pubDate>' + new Date().toUTCString() + '</pubDate>\n' +
-                '    <generator>https://coherence.java.net/</generator>\n';
+                '    <generator>https://coherence-community.github.io/</generator>\n';
 
             releases.forEach(function(release) {
                 xmlFeed += '    <item>\n' +
