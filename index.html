@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <title>Oracle Coherence Community</title>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- CSS Global Compulsory-->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/headers/header1.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="shortcut icon" href="favicon.ico">
+    <script type="text/javascript" src="assets/js/angular.min.js"></script>
+
+    <!-- CSS Implementing Plugins -->    
+	<!-- <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="assets/plugins/flexslider/flexslider.css">    	
+    <link rel="stylesheet" href="assets/plugins/parallax-slider/css/parallax-slider.css">
+
+    <!-- CSS Theme -->    
+    <link rel="stylesheet" href="assets/css/themes/oracle.css" id="style_color">
+    <link rel="stylesheet" href="assets/css/themes/headers/header1-oracle.css" id="style_color-header-1">
+</head>
+
+<body ng-app="community">
+<!--=== Top ===-->
+<div class="top">
+    <div class="container">         
+    </div>
+</div><!--/top-->
+<!--=== End Top ===-->    
+
+<!--=== Header ===-->    
+<div class="header">
+    <div class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">
+                    <img id="logo-header" src="assets/img/logo-community.png" height="49" alt="Logo">
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-responsive-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">
+                            Home
+                            <i class="icon-angle-down"></i>
+                        </a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">
+                            Coherence
+                            <i class="icon-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.oracle.com/technetwork/middleware/coherence/overview/index.html" target="_blank">Learn About Coherence</a></li>
+                            <li><a href="http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html" target="_blank">Downloads</a></li>
+                            <li><a href="http://www.oracle.com/technetwork/middleware/coherence/documentation/index.html" target="_blank">Documentation</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">
+                            Projects
+                            <i class="icon-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://github.com/coherence-community/coherence-demo" target="_blank">Coherence Demo</a></li>
+                            <li><a href="https://github.com/oracle/docker-images/tree/master/OracleCoherence" target="_blank">Coherence Docker</a></li>
+                            <li><a href="https://java.net/projects/cohhib" target="_blank">Coherence Hibernate</a></li>
+                            <li><a href="https://java.net/projects/cohinc" target="_blank">Coherence Incubator</a></li>
+                            <li><a href="https://github.com/coherence-community/coherence-rx" target="_blank">Coherence RX</a></li>
+                            <li><a href="https://java.net/projects/cohspr" target="_blank">Coherence Spring</a></li>
+                            <li><a href="https://github.com/coherence-community/oracle-bedrock" target="_blank">Oracle Bedrock</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">
+                            Events
+                            <i class="icon-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="events/london.html">London, United Kingdom</a></li>
+                            <li><a href="events/newyork.html">New York, United States</a></li>
+                            <li><a href="events/madrid.html">Madrid, Spain</a></li>
+                            <li><a href="events/stockholm.html">Stockholm, Sweden</a></li>
+                            <li><a href="events/munich.html">Munich, Germany</a></li>
+                            <li><a href="events/melbourne.html">Melbourne, Australia</a></li>
+                            <li><a href="events/seoul.html">Seoul, South Korea</a></li>
+                            <li><a href="events/shenzhen.html">Shenzhen, China</a></li>
+                            <li><a href="events/beijing.html">Beijing, China</a></li>
+                            <li><a href="events/losangeles.html">Los Angeles, United States</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">
+                            Archive
+                            <i class="icon-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="archive/speakers.html">Past Speakers</a></li>
+                            <li><a href="archive/presentations.html">Past Presentations</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /navbar-collapse -->
+        </div>    
+    </div>    
+</div><!--/header-->
+<!--=== End Header ===-->    
+
+<!--=== Slider ===-->
+<div class="slider-inner">
+    <div id="da-slider" class="da-slider">
+        <div class="da-slide">
+            <h2><i>ORACLE COHERENCE</i> <br /> <i>RESOURCES</i> <br /> <i>PROVIDED BY ORACLE</i></h2>
+            <p><i>Information and Resources</i> <br /> <i>for the Coherence Community</i></p>
+            <!-- <div class="da-img"><img src="assets/plugins/parallax-slider/img/1.png" alt="" /></div> -->
+        </div>
+        <div class="da-slide">
+            <h2><i>OPEN SOURCE</i> <br /> <i>COHERENCE PROJECTS</i> <br /> <i>LED BY ORACLE</i></h2>
+            <p><i>Open Source Projects for the</i> <br /> <i>Oracle Coherence Community</i></p>
+            <!-- <div class="da-img"><img src="assets/plugins/parallax-slider/img/1.png" alt="" /></div> -->
+        </div>
+        <div class="da-slide">
+            <h2><i>GLOBAL</i> <br /> <i>COMMUNITY EVENTS</i> <br /> <i>LED BY ORACLE</i></h2>
+            <p><i>Meet with the Oracle Coherence experts</i> <br /> <i>at your local event</i></p>
+            <!-- <div class="da-img"><img src="assets/plugins/parallax-slider/img/1.png" alt="" /></div> -->
+        </div>
+        <div class="da-arrows">
+            <span class="da-arrows-prev"></span>
+            <span class="da-arrows-next"></span>		
+        </div>
+    </div><!--/da-slider-->
+</div><!--/slider-->
+<!--=== End Slider ===-->
+
+<!--=== Download Block ===-->
+<div class="purchase">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <span>Oracle Coherence</span>
+                <p><b><a href="http://www.oracle.com/technetwork/middleware/coherence/overview/index.html" target="_blank">Oracle Coherence</a></b>
+                    is the industry leading in-memory data grid solution that enables organizations to
+                    predictably scale mission-critical applications by providing fast access to frequently used data. As
+                    data volumes and customer expectations increase, driven by the “internet of things”, social, mobile,
+                    cloud and always-connected devices, so does the need to handle more data in real-time, offload
+                    over-burdened shared data services and provide availability guarantees.</p>
+            </div>
+            <div class="col-md-3">
+                <a href="http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html" target="_blank" class="btn-buy hover-effect">Download</a>
+            </div>
+        </div>
+    </div>
+</div><!--/row-->
+<!-- End Download Block -->
+
+<!--=== Content Part ===-->
+<div class="container">
+	<!-- Current Projects -->
+    <div class="headline"><h2>Open Source Projects</h2></div>
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                <div class="thumbnail-img">
+                    <div class="overflow-hidden">
+                        <img class="img-responsive" src="assets/img/main/coherence-demo-logo.png" height="67" width="67" alt="" />
+                    </div>
+                    <a class="btn-more hover-effect" href="https://github.com/coherence-community/coherence-demo" target="_blank">learn more +</a>
+                </div>
+                <div class="caption">
+                    <h3><a class="hover-effect" href="https://github.com/coherence-community/coherence-demo" target="_blank">Coherence Demo</a></h3>
+                    <p>Source Code for the Latest Oracle Coherence 12.2.1 Demo.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                <div class="thumbnail-img">
+                    <div class="overflow-hidden">
+                        <img class="img-responsive" src="assets/img/main/coherence-docker-logo.png" height="67" width="67" alt="" />
+                    </div>
+                    <a class="btn-more hover-effect" href="https://github.com/oracle/docker-images/tree/master/OracleCoherence" target="_blank">learn more +</a>
+                </div>
+                <div class="caption">
+                    <h3><a class="hover-effect" href="https://github.com/oracle/docker-images/tree/master/OracleCoherence" target="_blank">Coherence Docker</a></h3>
+                    <p>Docker resources for Oracle Coherence 12.2.1</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                <div class="thumbnail-img">
+                    <div class="overflow-hidden">
+                        <img class="img-responsive" src="assets/img/main/coherence-hibernate-logo.png" height="67" width="67" alt="" />
+                    </div>
+                    <a class="btn-more hover-effect" href="https://java.net/projects/cohhib" target="_blank">learn more +</a>
+                </div>
+                <div class="caption">
+                    <h3><a class="hover-effect" href="https://java.net/projects/cohhib" target="_blank">Coherence Hibernate</a></h3>
+                    <p>Hibernate 3.3+ integrations for using Oracle Coherence as second-level Hibernate cache and
+                       using Hibernate as a Coherence CacheStore.</p>
+                </div>
+            </div>
+        </div>
+    </div><!--/row-->
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                <div class="thumbnail-img">
+                    <div class="overflow-hidden">
+                        <img class="img-responsive" src="assets/img/main/coherence-incubator-logo.png" height="67" width="67" alt="" />
+                    </div>
+                    <a class="btn-more hover-effect" href="https://java.net/projects/cohinc" target="_blank">learn more +</a>
+                </div>
+                <div class="caption">
+                    <h3><a class="hover-effect" href="https://java.net/projects/cohinc" target="_blank">Coherence Incubator</a></h3>
+                    <p>Incubating distributed computing and data-grid examples, third-party integration examples and
+                       implementations of commonly used software patterns.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                <div class="thumbnail-img">
+                    <div class="overflow-hidden">
+                        <img class="img-responsive" src="assets/img/main/coherence-rx-logo.png" height="67" width="67" alt="" />
+                    </div>
+                    <a class="btn-more hover-effect" href="https://github.com/coherence-community/coherence-rx" target="_blank">learn more +</a>
+                </div>
+                <div class="caption">
+                    <h3><a class="hover-effect" href="https://github.com/coherence-community/coherence-rx" target="_blank">CoherenceRx</a></h3>
+                    <p>Reactive Extensions for Oracle Coherence, allowing RxJava Applications to consume
+                        Coherence resources.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                <div class="thumbnail-img">
+                    <div class="overflow-hidden">
+                        <img class="img-responsive" src="assets/img/main/coherence-spring-logo.png" height="67" width="67" alt="" />
+                    </div>
+                    <a class="btn-more hover-effect" href="https://java.net/projects/cohspr" target="_blank">learn more +</a>
+                </div>
+                <div class="caption">
+                    <h3><a class="hover-effect" href="https://java.net/projects/cohspr" target="_blank">Coherence Spring</a></h3>
+                    <p>Integrations between the Pivotal Spring Framework and Oracle Coherence.</p>
+                </div>
+            </div>
+        </div>
+    </div><!--/row-->
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn">
+                <div class="thumbnail-img">
+                    <div class="overflow-hidden">
+                        <img class="img-responsive" src="assets/img/main/bedrock-logo.png" height="67" width="67" alt="" />
+                    </div>
+                    <a class="btn-more hover-effect" href="https://github.com/coherence-community/oracle-bedrock" target="_blank">learn more +</a>
+                </div>
+                <div class="caption">
+                    <h3><a class="hover-effect" href="https://github.com/coherence-community/oracle-bedrock" target="_blank">Oracle Bedrock</a></h3>
+                    <p>A framework for the development, orchestration and testing of concurrent distributed applications,
+                        especially Coherence.</p>
+                    <p>(Previously Oracle Tools)</p>
+                </div>
+            </div>
+        </div>
+    </div><!--/row-->
+    <!-- End Current Projects -->
+    
+	<!-- Info Blocks -->
+	<div class="row">
+    	<!-- Welcome Block -->
+		<div class="col-md-8">
+			<div class="headline"><h2>Welcome</h2></div>
+            <div class="row">
+                <div class="col-sm-10">
+                    <p>The Oracle Coherence Community provides information and resources for developers, architects and
+                        software professionals routinely working with and evaluating Oracle Coherence.  It includes;</p>
+                    <ul class="list-unstyled margin-bottom-20">
+                        <li><i class="icon-ok color-red"></i> Community Developed Resources</li>
+                        <li><i class="icon-ok color-red"></i> Open Source Projects</li>
+                        <li><i class="icon-ok color-red"></i> Community Events</li>
+                    </ul>
+                </div>
+            </div>
+        </div><!--/col-md-8-->
+	</div><!--/row-->
+	<!-- End Info Blocks -->
+</div><!--/container-->		
+<!-- End Content Part -->
+
+<!--=== Footer ===-->
+<div class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 md-margin-bottom-40">
+                <!-- Blog Entries -->
+                <div class="posts" ng-controller="CoherenceController as coherence">
+                    <div class="headline"><h2>Recent Posts</h2></div>
+                    <div>
+                        <dl ng-repeat="article in coherence.articles | orderBy:'date':true | limitTo:7" class="dl-horizontal">
+                            <dt>
+                                <a href="#">
+                                    <img src="assets/img/download.png" alt>
+                                </a>
+                            </dt>
+                            <dd>
+                                <a ng-href="{{article.url}}" target="_blank">{{article.title}}</a>
+                                <p><small>{{article.date | date}}</small></p>
+                            </dd>
+                        </dl>
+                    </div></div>
+			</div><!--/col-md-4-->
+
+			<div class="col-md-4">
+                <!-- Release Stream -->
+                <div class="posts" ng-controller="CoherenceController as coherence">
+                    <div class="headline"><h2>Recent Releases</h2></div>
+                    <div>
+                        <dl ng-repeat="release in coherence.releases | orderBy:'date':true | limitTo:7" class="dl-horizontal">
+                            <dt>
+                                <a href="#">
+                                    <img src="assets/img/download.png" alt>
+                                </a>
+                            </dt>
+                            <dd>
+                                <a ng-href="{{release.url}}" target="_blank">{{release.name}}</a>
+                                <p><small>{{release.date | date}}</small></p>
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+			</div><!--/col-md-4-->
+
+            <div class="col-md-4 md-margin-bottom-40">
+                <!-- About -->
+                <div class="headline"><h2>About</h2></div>
+                <p class="margin-bottom-25 md-margin-bottom-40">
+                    A dedicated community focused on providing information, resources and events for developers, engineers,
+                    architects and operations managers using Oracle Coherence.
+                </p>
+
+                <!-- Stay Connected -->
+                <div class="headline"><h2>Stay Connected</h2></div>
+                <ul class="social-icons">
+                    <li><a href="https://www.youtube.com/user/OracleCoherence" data-original-title="Youtube" class="social_youtube" target="_blank"></a></li>
+                    <li><a href="http://feeds.feedblitz.com/oraclecoherence" data-original-title="Feed" class="social_rss" target="_blank"></a></li>
+                    <li><a href="https://twitter.com/OracleCoherence" data-original-title="Twitter" class="social_twitter" target="_blank"></a></li>
+                    <li><a href="https://github.com/coherence-community" data-original-title="Github" class="social_github" target="_blank"></a></li>
+                    <li><a href="http://www.linkedin.com/groups?home=&gid=1782166" data-original-title="Linkedin" class="social_linkedin" target="_blank"></a></li>
+                    <li><a href="http://www.facebook.com/oraclecoherence" data-original-title="Facebook" class="social_facebook" target="_blank"></a></li>
+                </ul>
+            </div><!--/col-md-4-->
+		</div><!--/row-->	
+	</div><!--/container-->	
+</div><!--/footer-->	
+<!--=== End Footer ===-->
+
+<!--=== Copyright ===-->
+<div class="copyright">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+	            <p class="copyright-space">
+                    &copy; 2017 Oracle Corporation. All Rights Reserved.
+                </p>
+			</div>
+            <div class="col-md-6">
+                <a href="index.html">
+                    <img id="logo-footer" src="assets/img/logo-community-dark.png" height="49" class="pull-right" alt="" />
+                </a>
+            </div>
+		</div><!--/row-->
+	</div><!--/container-->	
+</div><!--/copyright-->	
+<!--=== End Copyright ===-->
+
+<!-- JS Global Compulsory -->
+
+<script type="text/javascript" src="https://www.google-analytics.com/analytics.js"></script>
+<script type="text/javascript" src="assets/plugins/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="assets/plugins/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="assets/plugins/hover-dropdown.min.js"></script> 
+<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
+
+<!-- JS Implementing Plugins -->           
+<script type="text/javascript" src="assets/plugins/flexslider/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="assets/plugins/parallax-slider/js/modernizr.js"></script>
+<script type="text/javascript" src="assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
+
+<!-- JS Page Level -->
+<script type="text/javascript" src="assets/js/app.js"></script>
+<script type="text/javascript" src="assets/js/pages/index.js"></script>
+<!--[if lt IE 9]>
+    <script src="assets/plugins/respond.js"></script>
+<![endif]-->
+
+<!--=== Angular ===-->
+<script type="text/javascript" src="assets/js/community-app.js"></script>
+</body>
+</html>	

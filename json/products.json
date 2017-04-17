@@ -1,0 +1,1417 @@
+[
+  {
+    "name": "Oracle Coherence",
+    "version": "12.2.1.2.0",
+    "date": "2016-10-19",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html",
+    "documentationUrl": "http://docs.oracle.com/middleware/12212/coherence",
+    "platforms": [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/nt/middleware/12c/12212/",
+        "downloads": [
+          {
+            "name": "WebLogic Server and Coherence Install",
+            "file": "fmw_12.2.1.2.0_wls_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Stand-Alone Install",
+            "file": "fmw_12.2.1.2.0_coherence_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install",
+            "file": "fmw_12.2.1.2.0_coherence_quick_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install (Supplemental)",
+            "file": "fmw_12.2.1.2.0_coherence_quick_supplemental_Disk1_1of1.zip"
+          }
+        ],
+        "patches": []
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/12212/",
+        "downloads": [
+          {
+            "name": "Microsoft .NET Framework",
+            "file": "coherence-net-12.2.1.2.0b65074.zip"
+          }
+        ],
+        "patches": []
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/12212/",
+        "downloads": [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.2.0b65237-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.2.0b65237-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Apple OS X, 64-bit",
+            "file": "coherence-cpp-12.2.1.2.0b65237-osx-x64-llvm-clang.zip"
+          },
+          {
+            "name": "Microsoft Windows, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.2.0b65237-windows-x86-msvc.zip"
+          },
+          {
+            "name": "Microsoft Windows, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.2.0b65237-windows-x64-msvc.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.2.0b65237-solaris-x86-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.2.0b65237-solaris-x64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit SPARC",
+            "file": "coherence-cpp-12.2.1.2.0b65237-solaris-sparc32-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit SPARC",
+            "file": "coherence-cpp-12.2.1.2.0b65237-solaris-sparc64-sunpro.zip"
+          }
+        ],
+        "patches": []
+      }
+    ]
+  },
+  {
+    "name" : "Oracle Coherence",
+    "version": "12.2.1.1.0",
+    "date": "2016-06-21",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html",
+    "documentationUrl": "http://docs.oracle.com/middleware/12211/coherence",
+    "platforms" :
+    [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/nt/middleware/12c/122110/",
+        "downloads":
+        [
+          {
+            "name": "WebLogic Server and Coherence Install",
+            "file": "fmw_12.2.1.1.0_wls_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Stand-Alone Install",
+            "file": "fmw_12.2.1.1.0_coherence_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install",
+            "file": "fmw_12.2.1.1.0_coherence_quick_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install (Supplemental)",
+            "file": "fmw_12.2.1.1.0_coherence_quick_supplemental_Disk1_1of1.zip"
+          }
+        ],
+        "patches":
+        []
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/122110/",
+        "downloads":
+        [
+          {
+            "name": "Microsoft .NET Framework",
+            "file": "coherence-net-12.2.1.1.0b62859.zip"
+          }
+        ],
+        "patches":
+        []
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/122110/",
+        "downloads":
+        [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.1.0b62859-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.1.0b62859-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Apple OS X, 64-bit",
+            "file": "coherence-cpp-12.2.1.1.0b62859-osx-x64-llvm-clang.zip"
+          },
+          {
+            "name": "Microsoft Windows, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.1.0b62859-windows-x86-msvc.zip"
+          },
+          {
+            "name": "Microsoft Windows, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.1.0b62859-windows-x64-msvc.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.1.0b62859-solaris-x86-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.1.0b62859-solaris-x64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit SPARC",
+            "file": "coherence-cpp-12.2.1.1.0b62859-solaris-sparc32-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit SPARC",
+            "file": "coherence-cpp-12.2.1.1.0b62859-solaris-sparc64-sunpro.zip"
+          }
+        ],
+        "patches":
+        []
+      }
+    ]
+  },
+  {
+    "name" : "Oracle Coherence",
+    "version": "12.2.1",
+    "date": "2015-10-26",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html",
+    "documentationUrl": "http://docs.oracle.com/middleware/1221/coherence/",
+    "platforms" :
+    [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/nt/middleware/12c/122100/",
+        "downloads":
+        [
+          {
+            "name": "WebLogic Server and Coherence Install",
+            "file": "fmw_12.2.1.0.0_wls_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Stand-Alone Install",
+            "file": "fmw_12.2.1.0.0_coherence_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install",
+            "file": "fmw_12.2.1.0.0_coherence_quick_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install (Supplemental)",
+            "file": "fmw_12.2.1.0.0_coherence_quick_supplemental_Disk1_1of1.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.2.1.0.1",
+            "number": "22717368",
+            "date": "2016-01-21"
+          },
+          {
+            "version": "12.2.1.0.2",
+            "number": "23491538",
+            "date": "2016-06-06"
+          },
+          {
+            "version": "12.2.1.0.3",
+            "number": "25497163",
+            "date": "2017-02-26"
+          }
+
+        ]
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/1221/",
+        "downloads":
+        [
+          {
+            "name": "Microsoft .NET Framework",
+            "file": "coherence-net-12.2.1.0.0b60639.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.2.1.0.1",
+            "number": "22778703",
+            "date": "2016-01-21"
+          },
+          {
+            "version": "12.2.1.0.2",
+            "number": "23491572",
+            "date": "2016-06-06"
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/1221/",
+        "downloads":
+        [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.0.0b60622-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.0.0b60622-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Apple OS X, 64-bit",
+            "file": "coherence-cpp-12.2.1.0.0b60622-osx-x64-gcc.zip"
+          },
+          {
+            "name": "Microsoft Windows, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.0.0b60622-windows-x86-msvc.zip"
+          },
+          {
+            "name": "Microsoft Windows, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.0.0b60622-windows-x64-msvc.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.0.0b60622-solaris-x86-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.0.0b60622-solaris-x64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit SPARC",
+            "file": "coherence-cpp-12.2.1.0.0b51709-solaris-sparc32-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit SPARC",
+            "file": "coherence-cpp-12.2.1.0.0b60622-solaris-sparc64-sunpro.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.2.1.0.1",
+            "number": "22778707",
+            "date": "2016-01-21"
+          },
+          {
+            "version": "12.2.1.0.2",
+            "number": "23491597",
+            "date": "2016-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Oracle Coherence",
+    "version": "12.1.3",
+    "date": "2014-06-01",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html",
+    "documentationUrl": "http://docs.oracle.com/middleware/1213/coherence/",
+    "platforms" :
+    [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/nt/middleware/12c/121300/",
+        "downloads":
+        [
+          {
+            "name": "WebLogic Server and Coherence Install",
+            "file": "fmw_12.1.3.0.0_wls_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Stand-Alone Install",
+            "file": "fmw_12.1.3.0.0_coherence_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install",
+            "file": "fmw_12.1.3.0.0_coherence_quick_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install (Supplemental)",
+            "file": "fmw_12.1.3.0.0_coherence_quick_supplemental_Disk1_1of1.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.1.3.0.1",
+            "number": "18378184",
+            "date": "2014-12-16"
+          },
+          {
+            "version": "12.1.3.0.2",
+            "number": "20968297",
+            "date": "2015-05-20"
+          },
+          {
+            "version": "12.1.3.0.3",
+            "number": "21924701",
+            "date": "2015-10-13"
+          },
+          {
+            "version": "12.1.3.0.4",
+            "number": "22877083",
+            "date": "2016-03-11"
+          },
+          {
+            "version": "12.1.3.0.5",
+            "number": "24369951",
+            "date": "2016-08-08"
+          }
+        ]
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/1213/",
+        "downloads":
+        [
+          {
+            "name": "Microsoft .NET Framework",
+            "file": "coherence-net-12.1.3.0.0b51484.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.1.3.0.1",
+            "number": "18378265",
+            "date": "2014-12-16"
+          },
+          {
+            "version": "12.1.3.0.2",
+            "number": "20968478",
+            "date": "2015-05-20"
+          },
+          {
+            "version": "12.1.3.0.3",
+            "number": "21924765",
+            "date": "2015-10-14"
+          },
+          {
+            "version": "12.1.3.0.4",
+            "number": "22877318",
+            "date": "2016-03-11"
+          },
+          {
+            "version": "12.1.3.0.5",
+            "number": "24369991",
+            "date": "2016-08-08"
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/1213/",
+        "downloads":
+        [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-12.1.3.0.0b51709-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-12.1.3.0.0b51709-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 64-bit x64",
+            "file": "coherence-cpp-12.1.3.0.0b51709-osx-x64-gcc.zip"
+          },
+          {
+            "name": "Microsoft Windows, 32-bit x86 (Visual Studio 2010)",
+            "file": "coherence-cpp-12.1.3.0.0b51709-windows-x86-vs2010.zip"
+          },
+          {
+            "name": "Microsoft Windows, 32-bit x86 (Visual Studio 2012)",
+            "file": "coherence-cpp-12.1.3.0.0b51709-windows-x86-vs2012.zip"
+          },
+          {
+            "name": "Microsoft Windows, 32-bit x86 (Visual Studio 2013)",
+            "file": "coherence-cpp-12.1.3.0.0b51709-windows-x86-vs2013.zip"
+          },
+          {
+            "name": "Microsoft Windows, 64-bit x64 (Visual Studio 2010)",
+            "file": "coherence-cpp-12.1.3.0.0b51709-windows-x64-vs2010.zip"
+          },
+          {
+            "name": "Microsoft Windows, 64-bit x64 (Visual Studio 2012)",
+            "file": "coherence-cpp-12.1.3.0.0b51709-windows-x64-vs2012.zip"
+          },
+          {
+            "name": "Microsoft Windows, 64-bit x64 (Visual Studio 2013)",
+            "file": "coherence-cpp-12.1.3.0.0b51709-windows-x64-vs2013.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86",
+            "file": "coherence-cpp-12.1.3.0.0b51709-solaris-sparc64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86 (STL Port)",
+            "file": "coherence-cpp-12.1.3.0.0b51709-solaris-x86-sunpro-stlport.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit x64",
+            "file": "coherence-cpp-12.1.3.0.0b51709-solaris-x64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit SPARC",
+            "file": "coherence-cpp-12.1.3.0.0b51709-solaris-sparc32-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit SPARC",
+            "file": "coherence-cpp-12.1.3.0.0b51709-solaris-sparc64-sunpro.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.1.3.0.1",
+            "number": "20164374",
+            "date": "2014-12-16"
+          },
+          {
+            "version": "12.1.3.0.2",
+            "number": "20968520",
+            "date": "2015-05-20"
+          },
+          {
+            "version": "12.1.3.0.3",
+            "number": "21925029",
+            "date": "2015-10-14"
+          },
+          {
+            "version": "12.1.3.0.4",
+            "number": "22877330",
+            "date": "2016-03-11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Oracle Coherence",
+    "version": "12.1.2",
+    "date": "2012-06-01",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/coherence-archive-165749.html",
+    "documentationUrl": "http://docs.oracle.com/middleware/1212/coherence/",
+    "platforms" :
+    [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/nt/middleware/12c/121200/",
+        "downloads":
+        [
+          {
+            "name": "WebLogic Server and Coherence Install",
+            "file": "ofm_wls_generic_12.1.2.0.0_disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Stand-Alone Install",
+            "file": "ofm_coherence_generic_12.1.2.0.0_disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install",
+            "file": "ofm_coherence_quick_generic_12.1.2.0.0_disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install (Supplemental)",
+            "file": "ofm_coherence_quick_supplemental_generic_12.1.2.0.0_disk1_1of1.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.1.2.0.1",
+            "number": "17745328",
+            "date": "2013-11-13"
+          },
+          {
+            "version": "12.1.2.0.2",
+            "number": "18512700",
+            "date": "2014-04-11"
+          },
+          {
+            "version": "12.1.2.0.3",
+            "number": "19604326",
+            "date" : "2014-09-26"
+          },
+          {
+            "version": "12.1.2.0.4",
+            "number": "20447899",
+            "date" : "2015-02-20"
+          },
+          {
+            "version": "12.1.2.0.5",
+            "number": "24334729",
+            "date" : "2016-07-29"
+          }
+        ]
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/1212",
+        "downloads":
+        [
+          {
+            "name": "Microsoft .NET Framework",
+            "file": "coherence-net-12.1.2.0b43894.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.1.2.0.1",
+            "number": "17745568",
+            "date": "2013-11-13"
+          },
+          {
+            "version": "12.1.2.0.2",
+            "number": "18512707",
+            "date": "2014-04-11"
+          },
+          {
+            "version": "12.1.2.0.3",
+            "number": "19664151",
+            "date" : "2014-09-26"
+          },
+          {
+            "version": "12.1.2.0.4",
+            "number": "20447989",
+            "date" : "2015-02-20"
+          },
+          {
+            "version": "12.1.2.0.5",
+            "number": "24334741",
+            "date" : "2016-07-29"
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/1212/",
+        "downloads":
+        [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-12.1.2.0.0b44500-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-12.1.2.0.0b44500-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 64-bit x64",
+            "file": "coherence-cpp-12.1.2.0.0b44500-osx-x64-gcc.zip"
+          },
+          {
+            "name": "Microsoft Windows 2000+, 32-bit x86 (Visual Studio 2010)",
+            "file": "coherence-cpp-12.1.2.0.0b44500-windows-x86-vs2010.zip"
+          },
+          {
+            "name": "Microsoft Windows 2000+, 32-bit x86 (Visual Studio 2012)",
+            "file": "coherence-cpp-12.1.2.0.0b44500-windows-x86-vs2012.zip"
+          },
+          {
+            "name": "Microsoft Windows 2003+, 64-bit x64 (Visual Studio 2010)",
+            "file": "coherence-cpp-12.1.2.0.0b44500-windows-x64-vs2010.zip"
+          },
+          {
+            "name": "Microsoft Windows 2003+, 64-bit x64 (Visual Studio 2012)",
+            "file": "coherence-cpp-12.1.2.0.0b44500-windows-x64-vs2012.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86",
+            "file": "coherence-cpp-12.1.2.0.0b44500-solaris-x86-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86 (STL Port)",
+            "file": "coherence-cpp-12.1.2.0.0b44500-solaris-x86-sunpro-stlport.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit x64",
+            "file": "coherence-cpp-12.1.2.0.0b44500-solaris-x64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit SPARC",
+            "file": "coherence-cpp-12.1.2.0.0b44500-solaris-sparc32-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit SPARC",
+            "file": "coherence-cpp-12.1.2.0.0b44500-solaris-sparc64-sunpro.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "12.1.2.0.1",
+            "number": "17745573",
+            "date": "2013-11-14"
+          },
+          {
+            "version": "12.1.2.0.2",
+            "number": "18512717",
+            "date": "2014-04-11"
+          },
+          {
+            "version": "12.1.2.0.3",
+            "number": "19664212",
+            "date" : "2014-09-26"
+          },
+          {
+            "version": "12.1.2.0.5",
+            "number": "24334753",
+            "date" : "2016-07-29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Oracle Coherence",
+    "version": "3.7.1",
+    "date": "2011-04-01",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/coherence-archive-165749.html",
+    "documentationUrl": "http://download.oracle.com/docs/cd/E24290_01/index.htm",
+    "platforms" :
+    [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Java Platform",
+            "file": "coherence-java-3.7.1.0b27797.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.7.1.1",
+            "number": "13407504",
+            "date": "2011-11-18"
+          },
+          {
+            "version": "3.7.1.2",
+            "number": "13618831",
+            "date": "2012-01-23"
+          },
+          {
+            "version": "3.7.1.3",
+            "number": "13739503",
+            "date": "2012-02-21"
+          },
+          {
+            "version": "3.7.1.4",
+            "number": "14028258",
+            "date": "2012-05-07"
+          },
+          {
+            "version": "3.7.1.5",
+            "number": "14138815",
+            "date": "2012-06-04"
+          },
+          {
+            "version": "3.7.1.6",
+            "number": "14468425",
+            "date": "2012-08-21"
+          },
+          {
+            "version": "3.7.1.7",
+            "number": "15874010",
+            "date": "2012-11-09"
+          },
+          {
+            "version": "3.7.1.8",
+            "number": "16390220",
+            "date": "2013-03-11"
+          },
+          {
+            "version": "3.7.1.9",
+            "number": "16878839",
+            "date": "2013-05-31"
+          },
+          {
+            "version": "3.7.1.10",
+            "number": "17342587",
+            "date": "2013-08-30"
+          },
+          {
+            "version": "3.7.1.11",
+            "number": "17897749",
+            "date": "2013-12-11"
+          },
+          {
+            "version": "3.7.1.12",
+            "number": "18385410",
+            "date": "2014-03-14"
+          },
+          {
+            "version": "3.7.1.13",
+            "number": "19485862",
+            "date": "2014-09-08"
+          },
+          {
+            "version": "3.7.1.14",
+            "number": "22295947",
+            "date": "2015-12-10"
+          },
+          {
+            "version": "3.7.1.15",
+            "number": "23859798",
+            "date": "2016-07-18"
+          },
+          {
+            "version": "3.7.1.16",
+            "number": "25100037",
+            "date": "2016-11-23"
+          }
+        ]
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Microsoft .NET Framework",
+            "file": "coherence-net-3.7.1.0b27698.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.7.1.1",
+            "number": "13407540",
+            "date": "2011-11-18"
+          },
+          {
+            "version": "3.7.1.2",
+            "number": "13619129",
+            "date": "2012-01-23"
+          },
+          {
+            "version": "3.7.1.3",
+            "number": "13743044",
+            "date": "2012-02-21"
+          },
+          {
+            "version": "3.7.1.4",
+            "number": "14043964",
+            "date": "2012-05-07"
+          },
+          {
+            "version": "3.7.1.6",
+            "number": "14519416",
+            "date": "2012-08-21"
+          },
+          {
+            "version": "3.7.1.7",
+            "number": "15936151",
+            "date": "2012-11-29"
+          },
+          {
+            "version": "3.7.1.9",
+            "number": "15936151",
+            "date": "2013-05-31"
+          },
+          {
+            "version": "3.7.1.10",
+            "number": "17342594",
+            "date": "2013-08-30"
+          },
+          {
+            "version": "3.7.1.11",
+            "number": "17897769",
+            "date": "2013-12-11"
+          },
+          {
+            "version": "3.7.1.12",
+            "number": "18385431",
+            "date": "2014-03-15"
+          },
+          {
+            "version": "3.7.1.13",
+            "number": "19485881",
+            "date": "2014-09-08"
+          },
+          {
+            "version": "3.7.1.14",
+            "number": "22352736",
+            "date": "2015-12-11"
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-3.7.1.0b27647-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-3.7.1.0b27647-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 32-bit x64",
+            "file": "coherence-cpp-3.7.1.0b27647-osx-x86-gcc.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 64-bit x64",
+            "file": "coherence-cpp-3.7.1.0b27647-osx-x64-gcc.zip"
+          },
+          {
+            "name": "Microsoft Windows 2000+, 32-bit x86 (Visual Studio 2005)",
+            "file": "coherence-cpp-3.7.1.0b27647-windows-x86-vs2005.zip"
+          },
+          {
+            "name": "Microsoft Windows 2000+, 32-bit x86 (Visual Studio 2010)",
+            "file": "coherence-cpp-3.7.1.0b27647-windows-x86-vs2010.zip"
+          },
+          {
+            "name": "Microsoft Windows 2003+, 64-bit x64 (Visual Studio 2005)",
+            "file": "coherence-cpp-3.7.1.0b27647-windows-x64-vs2005.zip"
+          },
+          {
+            "name": "Microsoft Windows 2003+, 64-bit x64 (Visual Studio 2010)",
+            "file": "coherence-cpp-3.7.1.0b27647-windows-x64-vs2010.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86",
+            "file": "coherence-cpp-3.7.1.0b27647-solaris-x86-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit x64",
+            "file": "coherence-cpp-3.7.1.0b27647-solaris-x64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit SPARC",
+            "file": "coherence-cpp-3.7.1.0b27647-solaris-sparc32-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit SPARC",
+            "file": "coherence-cpp-3.7.1.0b27647-solaris-sparc64-sunpro.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.7.1.1",
+            "number": "13407596",
+            "date": "2011-11-18"
+          },
+          {
+            "version": "3.7.1.2",
+            "number": "13618966",
+            "date": "2012-01-19"
+          },
+          {
+            "version": "3.7.1.3",
+            "number": "13743042",
+            "date": "2012-02-21"
+          },
+          {
+            "version": "3.7.1.4",
+            "number": "14043961",
+            "date": "2012-05-07"
+          },
+          {
+            "version": "3.7.1.5",
+            "number": "14158369",
+            "date": "2012-06-05"
+          },
+          {
+            "version": "3.7.1.6",
+            "number": "14519468",
+            "date": "2012-08-21"
+          },
+          {
+            "version": "3.7.1.7",
+            "number": "15936150",
+            "date": "2012-11-30"
+          },
+          {
+            "version": "3.7.1.8",
+            "number": "16390214",
+            "date": "2013-03-05"
+          },
+          {
+            "version": "3.7.1.9",
+            "number": "16878847",
+            "date": "2013-06-02"
+          },
+          {
+            "version": "3.7.1.10",
+            "number": "17342592",
+            "date": "2013-08-20"
+          },
+          {
+            "version": "3.7.1.11",
+            "number": "17897758",
+            "date": "2013-12-11"
+          },
+          {
+            "version": "3.7.1.12",
+            "number": "18385421",
+            "date": "2014-03-15"
+          },
+          {
+            "version": "3.7.1.13",
+            "number": "19485873",
+            "date": "2014-09-08"
+          },
+          {
+            "version": "3.7.1.14",
+            "number": "22352757",
+            "date": "2015-12-11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Oracle Coherence",
+    "version": "3.6.1",
+    "date": "2010-06-01",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/coherence-archive-165749.html",
+    "documentationUrl" : "http://download.oracle.com/docs/cd/E15357_01/index.htm",
+    "platforms" :
+    [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Java Platform",
+            "file": "coherence-java-3.6.1.0b19636.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.6.1.1",
+            "number": "11076650 ",
+            "date": "2011-01-14"
+          },
+          {
+            "version": "3.6.1.2",
+            "number": "11855395 ",
+            "date": "2011-03-10"
+          },
+          {
+            "version": "3.6.1.3",
+            "number": "12365821",
+            "date": "2011-04-15"
+          },
+          {
+            "version": "3.6.1.4",
+            "number": "12706899",
+            "date": "2011-06-29"
+          },
+          {
+            "version": "3.6.1.5",
+            "number": "12831208",
+            "date": "2011-08-03"
+          },
+          {
+            "version": "3.6.1.6",
+            "number": "13030063",
+            "date": "2011-09-27"
+          },
+          {
+            "version": "3.6.1.7",
+            "number": "13516756",
+            "date": "2011-12-19"
+          },
+          {
+            "version": "3.6.1.8",
+            "number": "15874011",
+            "date": "2012-11-11"
+          },
+          {
+            "version": "3.6.1.9",
+            "number": "16623421",
+            "date": "2013-04-12"
+          }
+        ]
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Microsoft .NET Framework 1.1+",
+            "file": "coherence-net-3.6.1.0b19636.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.6.1.1",
+            "number": "11076650",
+            "date": "2011-01-20"
+          },
+          {
+            "version": "3.6.1.2",
+            "number": "12365858",
+            "date": "2011-04-15"
+          },
+          {
+            "version": "3.6.1.3",
+            "number": "12941278",
+            "date": "2011-09-02"
+          },
+          {
+            "version": "3.6.1.4",
+            "number": "15879591",
+            "date": "2011-11-15"
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-3.6.1.0b19854-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-3.6.1.0b19854-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 32-bit x64",
+            "file": "coherence-cpp-3.6.1.0b19854-osx-x86-gcc.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 64-bit x64",
+            "file": "coherence-cpp-3.6.1.0b19854-osx-x64-gcc.zip"
+          },
+          {
+            "name": "Microsoft Windows 2000+, 32-bit x86 (Visual Studio 2005)",
+            "file": "coherence-cpp-3.6.1.0b19854-windows-x86-vs2005.zip"
+          },
+          {
+            "name": "Microsoft Windows 2000+, 32-bit x86 (Visual Studio 2010)",
+            "file": "coherence-cpp-3.6.1.0b19854-windows-x86-vs2010.zip"
+          },
+          {
+            "name": "Microsoft Windows 2003+, 64-bit x64 (Visual Studio 2005)",
+            "file": "coherence-cpp-3.6.1.0b19854-windows-x64-vs2005.zip"
+          },
+          {
+            "name": "Microsoft Windows 2003+, 64-bit x64 (Visual Studio 2010)",
+            "file": "coherence-cpp-3.6.1.0b19854-windows-x64-vs2010.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86",
+            "file": "coherence-cpp-3.6.1.0b19854-solaris-x86-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit x64",
+            "file": "coherence-cpp-3.6.1.0b19854-solaris-x64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit SPARC",
+            "file": "coherence-cpp-3.6.1.0b19854-solaris-sparc64-sunpro.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.6.1.1",
+            "number": "15879598",
+            "date": "2011-11-15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Oracle Coherence",
+    "version": "3.5.3",
+    "date": "2009-06-01",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/coherence-archive-165749.html",
+    "documentationUrl" : "http://download.oracle.com/docs/cd/E14526_01/index.htm",
+    "platforms" :
+    [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Java Platform",
+            "file": "coherence-java-v3.5.3b465.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.5.3.1",
+            "number": "9380867",
+            "date": "2010-01-15"
+          },
+          {
+            "version": "3.5.3.2",
+            "number": "9399979 ",
+            "date": "2010-02-22"
+          },
+          {
+            "version": "3.5.3.3",
+            "number": "9592411",
+            "date": "2010-04-16"
+          },
+          {
+            "version": "3.5.3.4",
+            "number": "9694253",
+            "date": "2010-05-07"
+          },
+          {
+            "version": "3.5.3.5",
+            "number": "9753864",
+            "date": "2010-05-26"
+          },
+          {
+            "version": "3.5.3.6",
+            "number": "9820364",
+            "date": "2010-06-16"
+          },
+          {
+            "version": "3.5.3.7",
+            "number": "9899827",
+            "date": "2010-07-12"
+          },
+          {
+            "version": "3.5.3.8",
+            "number": "10186132",
+            "date": "2010-10-08"
+          },
+          {
+            "version": "3.5.3.9",
+            "number": "10636507",
+            "date": "2011-01-05"
+          },
+          {
+            "version": "3.5.3.10",
+            "number": "11682144",
+            "date": "2011-01-25"
+          },
+          {
+            "version": "3.5.3.11",
+            "number": "15858045",
+            "date": "2012-11-09"
+          }
+        ]
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Microsoft .NET Framework 1.1+",
+            "file": "coherence-net-v3.5.3b465.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.5.3.1",
+            "number": "10170356",
+            "date": "2010-10-04"
+          },
+          {
+            "version": "3.5.3.2",
+            "number": "12941257",
+            "date": "2011-09-02"
+          },
+          {
+            "version": "3.5.3.3",
+            "number": "15858032",
+            "date": "2012-09-11"
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-v3.5.3b465-linux-x86.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-v3.5.3b465-linux-x64.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 32-bit x64",
+            "file": "coherence-cpp-v3.5.3b465-osx-x86.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 64-bit x64",
+            "file": "coherence-cpp-v3.5.3b465-osx-x64.zip"
+          },
+          {
+            "name": "Microsoft Windows 2000+, 32-bit x86",
+            "file": "coherence-cpp-v3.5.3b465-windows-x86.zip"
+          },
+          {
+            "name": "Microsoft Windows 2003+, 64-bit x64",
+            "file": "coherence-cpp-v3.5.3b465-windows-x64.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 32-bit x86",
+            "file": "coherence-cpp-v3.5.3b465-solaris-x86.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit x64",
+            "file": "coherence-cpp-v3.5.3b465-solaris-x64.zip"
+          },
+          {
+            "name": "Oracle Solaris 10, 64-bit SPARC",
+            "file": "coherence-cpp-v3.5.3b465-solaris-sparc64.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.5.3.1",
+            "number": "9700280",
+            "date": "2011-05-10"
+          },
+          {
+            "version": "3.5.3.2",
+            "number": "15864393",
+            "date": "2012-11-09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Oracle Coherence",
+    "version": "3.4.2",
+    "date": "2009-02-01",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/coherence-archive-165749.html",
+    "documentationUrl" : "http://download.oracle.com/docs/cd/E13924_01/index.htm",
+    "platforms" :
+    [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Java Platform",
+            "file": "coherence-java-v3.4.2b411.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.4.2.11",
+            "number": "9152217",
+            "date": "2009-11-24"
+          },
+          {
+            "version": "3.4.2.12",
+            "number": "9317572",
+            "date": "2010-01-26"
+          },
+          {
+            "version": "3.4.2.13",
+            "number": "9317572",
+            "date": "2010-03-02"
+          },
+          {
+            "version": "3.4.2.14",
+            "number": "9317572",
+            "date": "2010-04-14"
+          },
+          {
+            "version": "3.4.2.15",
+            "number": "9317572",
+            "date": "2010-05-07"
+          },
+          {
+            "version": "3.4.2.16",
+            "number": "9317572",
+            "date": "2010-07-16"
+          },
+          {
+            "version": "3.4.2.17",
+            "number": "9317572",
+            "date": "2011-05-09"
+          }
+        ]
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Microsoft .NET Framework 1.1+",
+            "file": "coherence-net-v3.4.2b411.zip"
+          }
+        ],
+        "patches":
+        [
+          {
+            "version": "3.4.2.2",
+            "number": "8812135",
+            "date": "2009-08-18"
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/",
+        "downloads":
+        [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-v3.4.2b411-linux-x86.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-v3.4.2b411-linux-x64.zip"
+          },
+          {
+            "name": "Apple OS X 10.4+, 32-bit x64",
+            "file": "coherence-cpp-v3.4.2b411-osx-x86.zip"
+          },
+          {
+            "name": "Microsoft Windows 2000+, 32-bit x86",
+            "file": "coherence-cpp-v3.4.2b411-windows-x86.zip"
+          },
+          {
+            "name": "Microsoft Windows 2003+, 64-bit x64",
+            "file": "coherence-cpp-v3.4.2b411-windows-x64.zip"
+          }
+        ],
+        "patches":
+        [
+        ]
+      }
+    ]
+  }
+]
