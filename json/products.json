@@ -27,7 +27,14 @@
             "file": "fmw_12.2.1.2.0_coherence_quick_supplemental_Disk1_1of1.zip"
           }
         ],
-        "patches": []
+        "patches":
+        [
+          {
+            "version": "12.2.1.2.1",
+            "number": "26477726",
+            "date": "2017-08-23"
+          }
+        ]
       },
       {
         "name": ".NET",
@@ -116,7 +123,13 @@
           }
         ],
         "patches":
-        []
+        [
+          {
+            "version": "12.2.1.1.1",
+            "number": "26477713",
+            "date": "2017-08-23"
+          }
+        ]
       },
       {
         "name": ".NET",
