@@ -1,6 +1,84 @@
 [
   {
     "name": "Oracle Coherence",
+    "version": "12.2.1.3.0",
+    "date": "2017-08-30",
+    "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html",
+    "documentationUrl": "http://docs.oracle.com/middleware/12213/coherence",
+    "platforms": [
+      {
+        "name": "Java",
+        "fileUrl": "http://download.oracle.com/otn/nt/middleware/12c/12213/",
+        "downloads": [
+          {
+            "name": "WebLogic Server and Coherence Install",
+            "file": "fmw_12.2.1.3.0_wls_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Stand-Alone Install",
+            "file": "fmw_12.2.1.3.0_coherence_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install",
+            "file": "fmw_12.2.1.3.0_coherence_quick_Disk1_1of1.zip"
+          },
+          {
+            "name": "Coherence Quick Install (Supplemental)",
+            "file": "fmw_12.2.1.3.0_coherence_quick_supplemental_Disk1_1of1.zip"
+          }
+        ],
+        "patches": []
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/12213/",
+        "downloads": [
+          {
+            "name": "Microsoft .NET Framework",
+            "file": "coherence-net-12.2.1.3.0b67906.zip"
+          }
+        ],
+        "patches": []
+      },
+      {
+        "name": "C++",
+        "fileUrl": "http://download.oracle.com/otn/java/coherence/12213/",
+        "downloads": [
+          {
+            "name": "Linux, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.3.0b67906-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Linux, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.3.0b67906-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Apple macOS, 64-bit",
+            "file": "coherence-cpp-12.2.1.3.0b67906-macos-x64-llvm-clang.zip"
+          },
+          {
+            "name": "Microsoft Windows, 32-bit x86",
+            "file": "coherence-cpp-12.2.1.3.0b67906-windows-x86-msvc.zip"
+          },
+          {
+            "name": "Microsoft Windows, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.3.0b67906-windows-x64-msvc.zip"
+          },
+          {
+            "name": "Oracle Solaris, 64-bit x64",
+            "file": "coherence-cpp-12.2.1.3.0b67906-solaris-x64-sunpro.zip"
+          },
+          {
+            "name": "Oracle Solaris, 64-bit SPARC",
+            "file": "coherence-cpp-12.2.1.3.0b67906-solaris-sparc64-sunpro.zip"
+          }
+        ],
+        "patches": []
+      }
+    ]
+  },
+  {
+    "name": "Oracle Coherence",
     "version": "12.2.1.2.0",
     "date": "2016-10-19",
     "productUrl": "http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html",
