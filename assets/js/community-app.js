@@ -47,17 +47,15 @@
         });
 
         // asynchronously fetch and process the RSS feed articles
-        var feedURL = 'https://feeds.feedblitz.com/oraclecoherence&x=1';
-        var maxEntries = 5;
-        var YQLstr = 'SELECT channel.item FROM feednormalizer WHERE output="rss_2.0" AND url ="' + feedURL + '" LIMIT ' + maxEntries;
-        var url = "https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=true&callback=JSON_CALLBACK";
+        var feedURL = "https://feeds.feedblitz.com/oraclecoherence&x=1";
+        var url = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(feedURL) + "&format=json&diagnostics=true&callback=JSON_CALLBACK";
 
-        $http.jsonp(url).success(function(json) {
-            json.query.results.rss.forEach(function(result) {
+        $http.jsonp(url).success(function(response) {
+            response.items.forEach(function(item) {
                 self.articles.push({
-                    "date"  : result.channel.item.date,
-                    "title" : result.channel.item.title,
-                    "url"   : result.channel.item.link
+                    "date"  : item.pubDate,
+                    "title" : item.title,
+                    "url"   : item.link
                 });
             });
         });
