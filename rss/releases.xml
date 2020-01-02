@@ -3,8 +3,14 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Wed, 18 Dec 2019 21:00:22 GMT</pubDate>
+    <pubDate>Thu, 02 Jan 2020 14:22:03 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
+    <item>
+      <title>Oracle Coherence Java 12.2.1.4.2</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=30689686</link>
+      <guid isPermaLink="false">30689686</guid>
+      <pubDate>Fri, 27 Dec 2019 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Coherence Java 3.7.1.17</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=30663022</link>
@@ -66,15 +72,15 @@
       <pubDate>Sun, 20 Jan 2019 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence Java 12.2.1.3.1</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=28173552</link>
-      <guid isPermaLink="false">28173552</guid>
-      <pubDate>Thu, 28 Jun 2018 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence .NET 12.2.1.3.1</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=28262433</link>
       <guid isPermaLink="false">28262433</guid>
+      <pubDate>Thu, 28 Jun 2018 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 12.2.1.3.1</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=28173552</link>
+      <guid isPermaLink="false">28173552</guid>
       <pubDate>Thu, 28 Jun 2018 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -156,9 +162,9 @@
       <pubDate>Mon, 08 Aug 2016 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence .NET 12.1.2.0.5</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=24334741</link>
-      <guid isPermaLink="false">24334741</guid>
+      <title>Oracle Coherence C++ 12.1.2.0.5</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=24334753</link>
+      <guid isPermaLink="false">24334753</guid>
       <pubDate>Fri, 29 Jul 2016 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -168,9 +174,9 @@
       <pubDate>Fri, 29 Jul 2016 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence C++ 12.1.2.0.5</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=24334753</link>
-      <guid isPermaLink="false">24334753</guid>
+      <title>Oracle Coherence .NET 12.1.2.0.5</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=24334741</link>
+      <guid isPermaLink="false">24334741</guid>
       <pubDate>Fri, 29 Jul 2016 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -186,15 +192,15 @@
       <pubDate>Tue, 21 Jun 2016 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence C++ 12.2.1.0.2</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=23491597</link>
-      <guid isPermaLink="false">23491597</guid>
-      <pubDate>Mon, 06 Jun 2016 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence .NET 12.2.1.0.2</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=23491572</link>
       <guid isPermaLink="false">23491572</guid>
+      <pubDate>Mon, 06 Jun 2016 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence C++ 12.2.1.0.2</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=23491597</link>
+      <guid isPermaLink="false">23491597</guid>
       <pubDate>Mon, 06 Jun 2016 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -204,9 +210,9 @@
       <pubDate>Mon, 06 Jun 2016 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence C++ 12.1.3.0.4</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=22877330</link>
-      <guid isPermaLink="false">22877330</guid>
+      <title>Oracle Coherence Java 12.1.3.0.4</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=22877083</link>
+      <guid isPermaLink="false">22877083</guid>
       <pubDate>Fri, 11 Mar 2016 05:00:00 GMT</pubDate>
     </item>
     <item>
@@ -216,9 +222,9 @@
       <pubDate>Fri, 11 Mar 2016 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence Java 12.1.3.0.4</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=22877083</link>
-      <guid isPermaLink="false">22877083</guid>
+      <title>Oracle Coherence C++ 12.1.3.0.4</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=22877330</link>
+      <guid isPermaLink="false">22877330</guid>
       <pubDate>Fri, 11 Mar 2016 05:00:00 GMT</pubDate>
     </item>
     <item>
@@ -240,15 +246,15 @@
       <pubDate>Thu, 21 Jan 2016 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence C++ 3.7.1.14</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=22352757</link>
-      <guid isPermaLink="false">22352757</guid>
-      <pubDate>Fri, 11 Dec 2015 05:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence .NET 3.7.1.14</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=22352736</link>
       <guid isPermaLink="false">22352736</guid>
+      <pubDate>Fri, 11 Dec 2015 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence C++ 3.7.1.14</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=22352757</link>
+      <guid isPermaLink="false">22352757</guid>
       <pubDate>Fri, 11 Dec 2015 05:00:00 GMT</pubDate>
     </item>
     <item>
@@ -318,21 +324,21 @@
       <pubDate>Tue, 16 Dec 2014 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence C++ 12.1.3.0.1</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=20164374</link>
-      <guid isPermaLink="false">20164374</guid>
-      <pubDate>Tue, 16 Dec 2014 05:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence Java 12.1.3.0.1</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=18378184</link>
       <guid isPermaLink="false">18378184</guid>
       <pubDate>Tue, 16 Dec 2014 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence .NET 12.1.2.0.3</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=19664151</link>
-      <guid isPermaLink="false">19664151</guid>
+      <title>Oracle Coherence C++ 12.1.3.0.1</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=20164374</link>
+      <guid isPermaLink="false">20164374</guid>
+      <pubDate>Tue, 16 Dec 2014 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence C++ 12.1.2.0.3</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=19664212</link>
+      <guid isPermaLink="false">19664212</guid>
       <pubDate>Fri, 26 Sep 2014 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -342,16 +348,10 @@
       <pubDate>Fri, 26 Sep 2014 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence C++ 12.1.2.0.3</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=19664212</link>
-      <guid isPermaLink="false">19664212</guid>
+      <title>Oracle Coherence .NET 12.1.2.0.3</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=19664151</link>
+      <guid isPermaLink="false">19664151</guid>
       <pubDate>Fri, 26 Sep 2014 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle Coherence Java 3.7.1.13</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=19485862</link>
-      <guid isPermaLink="false">19485862</guid>
-      <pubDate>Mon, 08 Sep 2014 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Oracle Coherence .NET 3.7.1.13</title>
@@ -366,10 +366,22 @@
       <pubDate>Mon, 08 Sep 2014 04:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Oracle Coherence Java 3.7.1.13</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=19485862</link>
+      <guid isPermaLink="false">19485862</guid>
+      <pubDate>Mon, 08 Sep 2014 04:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Oracle Coherence 12.1.3</title>
       <link>http://www.oracle.com/technetwork/middleware/coherence/downloads/index.html</link>
       <guid isPermaLink="false">12.1.3</guid>
       <pubDate>Sun, 01 Jun 2014 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 12.1.2.0.2</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=18512700</link>
+      <guid isPermaLink="false">18512700</guid>
+      <pubDate>Fri, 11 Apr 2014 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Oracle Coherence .NET 12.1.2.0.2</title>
@@ -381,12 +393,6 @@
       <title>Oracle Coherence C++ 12.1.2.0.2</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=18512717</link>
       <guid isPermaLink="false">18512717</guid>
-      <pubDate>Fri, 11 Apr 2014 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle Coherence Java 12.1.2.0.2</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=18512700</link>
-      <guid isPermaLink="false">18512700</guid>
       <pubDate>Fri, 11 Apr 2014 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -408,9 +414,9 @@
       <pubDate>Fri, 14 Mar 2014 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence Java 3.7.1.11</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=17897749</link>
-      <guid isPermaLink="false">17897749</guid>
+      <title>Oracle Coherence .NET 3.7.1.11</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=17897769</link>
+      <guid isPermaLink="false">17897769</guid>
       <pubDate>Wed, 11 Dec 2013 05:00:00 GMT</pubDate>
     </item>
     <item>
@@ -420,9 +426,9 @@
       <pubDate>Wed, 11 Dec 2013 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence .NET 3.7.1.11</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=17897769</link>
-      <guid isPermaLink="false">17897769</guid>
+      <title>Oracle Coherence Java 3.7.1.11</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=17897749</link>
+      <guid isPermaLink="false">17897749</guid>
       <pubDate>Wed, 11 Dec 2013 05:00:00 GMT</pubDate>
     </item>
     <item>
@@ -444,15 +450,15 @@
       <pubDate>Wed, 13 Nov 2013 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence .NET 3.7.1.10</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=17342594</link>
-      <guid isPermaLink="false">17342594</guid>
-      <pubDate>Fri, 30 Aug 2013 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence Java 3.7.1.10</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=17342587</link>
       <guid isPermaLink="false">17342587</guid>
+      <pubDate>Fri, 30 Aug 2013 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence .NET 3.7.1.10</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=17342594</link>
+      <guid isPermaLink="false">17342594</guid>
       <pubDate>Fri, 30 Aug 2013 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -516,12 +522,6 @@
       <pubDate>Sun, 11 Nov 2012 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence Java 3.7.1.7</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=15874010</link>
-      <guid isPermaLink="false">15874010</guid>
-      <pubDate>Fri, 09 Nov 2012 05:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence Java 3.5.3.11</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=15858045</link>
       <guid isPermaLink="false">15858045</guid>
@@ -534,10 +534,22 @@
       <pubDate>Fri, 09 Nov 2012 05:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Oracle Coherence Java 3.7.1.7</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=15874010</link>
+      <guid isPermaLink="false">15874010</guid>
+      <pubDate>Fri, 09 Nov 2012 05:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Oracle Coherence .NET 3.5.3.3</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=15858032</link>
       <guid isPermaLink="false">15858032</guid>
       <pubDate>Tue, 11 Sep 2012 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence C++ 3.7.1.6</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=14519468</link>
+      <guid isPermaLink="false">14519468</guid>
+      <pubDate>Tue, 21 Aug 2012 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Oracle Coherence Java 3.7.1.6</title>
@@ -549,12 +561,6 @@
       <title>Oracle Coherence .NET 3.7.1.6</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=14519416</link>
       <guid isPermaLink="false">14519416</guid>
-      <pubDate>Tue, 21 Aug 2012 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle Coherence C++ 3.7.1.6</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=14519468</link>
-      <guid isPermaLink="false">14519468</guid>
       <pubDate>Tue, 21 Aug 2012 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -576,12 +582,6 @@
       <pubDate>Fri, 01 Jun 2012 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence Java 3.7.1.4</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=14028258</link>
-      <guid isPermaLink="false">14028258</guid>
-      <pubDate>Mon, 07 May 2012 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence C++ 3.7.1.4</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=14043961</link>
       <guid isPermaLink="false">14043961</guid>
@@ -594,15 +594,21 @@
       <pubDate>Mon, 07 May 2012 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence C++ 3.7.1.3</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13743042</link>
-      <guid isPermaLink="false">13743042</guid>
-      <pubDate>Tue, 21 Feb 2012 05:00:00 GMT</pubDate>
+      <title>Oracle Coherence Java 3.7.1.4</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=14028258</link>
+      <guid isPermaLink="false">14028258</guid>
+      <pubDate>Mon, 07 May 2012 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Oracle Coherence .NET 3.7.1.3</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13743044</link>
       <guid isPermaLink="false">13743044</guid>
+      <pubDate>Tue, 21 Feb 2012 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence C++ 3.7.1.3</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13743042</link>
+      <guid isPermaLink="false">13743042</guid>
       <pubDate>Tue, 21 Feb 2012 05:00:00 GMT</pubDate>
     </item>
     <item>
@@ -612,15 +618,15 @@
       <pubDate>Tue, 21 Feb 2012 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence Java 3.7.1.2</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13618831</link>
-      <guid isPermaLink="false">13618831</guid>
-      <pubDate>Mon, 23 Jan 2012 05:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence .NET 3.7.1.2</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13619129</link>
       <guid isPermaLink="false">13619129</guid>
+      <pubDate>Mon, 23 Jan 2012 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 3.7.1.2</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13618831</link>
+      <guid isPermaLink="false">13618831</guid>
       <pubDate>Mon, 23 Jan 2012 05:00:00 GMT</pubDate>
     </item>
     <item>
@@ -636,6 +642,12 @@
       <pubDate>Mon, 19 Dec 2011 05:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Oracle Coherence C++ 3.7.1.1</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13407596</link>
+      <guid isPermaLink="false">13407596</guid>
+      <pubDate>Fri, 18 Nov 2011 05:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Oracle Coherence .NET 3.7.1.1</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13407540</link>
       <guid isPermaLink="false">13407540</guid>
@@ -645,12 +657,6 @@
       <title>Oracle Coherence Java 3.7.1.1</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13407504</link>
       <guid isPermaLink="false">13407504</guid>
-      <pubDate>Fri, 18 Nov 2011 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle Coherence C++ 3.7.1.1</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=13407596</link>
-      <guid isPermaLink="false">13407596</guid>
       <pubDate>Fri, 18 Nov 2011 05:00:00 GMT</pubDate>
     </item>
     <item>
@@ -672,15 +678,15 @@
       <pubDate>Tue, 27 Sep 2011 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence .NET 3.6.1.3</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=12941278</link>
-      <guid isPermaLink="false">12941278</guid>
-      <pubDate>Fri, 02 Sep 2011 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence .NET 3.5.3.2</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=12941257</link>
       <guid isPermaLink="false">12941257</guid>
+      <pubDate>Fri, 02 Sep 2011 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence .NET 3.6.1.3</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=12941278</link>
+      <guid isPermaLink="false">12941278</guid>
       <pubDate>Fri, 02 Sep 2011 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -798,15 +804,15 @@
       <pubDate>Wed, 26 May 2010 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Coherence Java 3.5.3.4</title>
-      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=9694253</link>
-      <guid isPermaLink="false">9694253</guid>
-      <pubDate>Fri, 07 May 2010 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Oracle Coherence Java 3.4.2.15</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=9317572</link>
       <guid isPermaLink="false">9317572</guid>
+      <pubDate>Fri, 07 May 2010 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 3.5.3.4</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=9694253</link>
+      <guid isPermaLink="false">9694253</guid>
       <pubDate>Fri, 07 May 2010 04:00:00 GMT</pubDate>
     </item>
     <item>
