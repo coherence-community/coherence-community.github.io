@@ -3,8 +3,14 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Thu, 02 Jan 2020 14:22:03 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2020 13:31:25 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
+    <item>
+      <title>Oracle Coherence Java 12.2.1.3.6</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=30689706</link>
+      <guid isPermaLink="false">30689706</guid>
+      <pubDate>Wed, 08 Jan 2020 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Coherence Java 12.2.1.4.2</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=30689686</link>
