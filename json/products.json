@@ -27,7 +27,13 @@
             "file": "fmw_14.1.1.0.0_coherence_quick_supplemental_Disk1_1of1.zip"
           }
         ],
-        "patches": []
+        "patches": [
+          {
+            "version": "14.1.1.0.1",
+            "number": "31201347",
+            "date": "2020-06-23"
+          }
+        ]
       },
       {
         "name": ".NET",

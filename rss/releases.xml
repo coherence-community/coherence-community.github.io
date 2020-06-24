@@ -3,8 +3,14 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Thu, 18 Jun 2020 12:24:19 GMT</pubDate>
+    <pubDate>Wed, 24 Jun 2020 17:59:31 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
+    <item>
+      <title>Oracle Coherence Java 14.1.1.0.1</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=31201347</link>
+      <guid isPermaLink="false">31201347</guid>
+      <pubDate>Tue, 23 Jun 2020 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Coherence Java 12.1.3.0.9</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=31470778</link>
