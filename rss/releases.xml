@@ -3,8 +3,14 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Sun, 15 Nov 2020 16:24:10 GMT</pubDate>
+    <pubDate>Mon, 16 Nov 2020 20:25:47 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
+    <item>
+      <title>Oracle Coherence .NET 14.1.1.0.3</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=32125132</link>
+      <guid isPermaLink="false">32125132</guid>
+      <pubDate>Mon, 16 Nov 2020 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Coherence Java 14.1.1.0.3</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=32124447</link>
