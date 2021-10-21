@@ -8,7 +8,6 @@
  * - the products.json file
  * - the xml feed file to create (typically releases.xml)
  */
-
 var generateReleasesModule = (function () {
 
     // private
