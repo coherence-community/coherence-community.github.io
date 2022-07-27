@@ -3,8 +3,20 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Mon, 25 Jul 2022 20:08:41 GMT</pubDate>
+    <pubDate>Wed, 27 Jul 2022 05:20:53 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
+    <item>
+      <title>Oracle Coherence .NET 14.1.1.0.10</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=34270642</link>
+      <guid isPermaLink="false">34270642</guid>
+      <pubDate>Tue, 26 Jul 2022 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence C++ 14.1.1.0.10</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=34270656</link>
+      <guid isPermaLink="false">34270656</guid>
+      <pubDate>Tue, 26 Jul 2022 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Coherence Java 14.1.1.0.10</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=34248968</link>

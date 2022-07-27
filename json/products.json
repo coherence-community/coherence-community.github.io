@@ -104,6 +104,11 @@
             "version": "14.1.1.0.4",
             "number": "32670381",
             "date": "2021-04-20"
+          },
+          {
+            "version": "14.1.1.0.10",
+            "number": "34270642",
+            "date": "2022-07-26"
           }
         ]
       },
@@ -140,7 +145,13 @@
             "file": "coherence-cpp-14.1.1.0.0b76646-solaris-sparc64-sunpro.zip"
           }
         ],
-        "patches": []
+        "patches": [
+          {
+            "version": "14.1.1.0.10",
+            "number": "34270656",
+            "date": "2022-07-26"
+          }
+        ]
       }
     ]
   },
