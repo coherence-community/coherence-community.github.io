@@ -3,8 +3,32 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Wed, 27 Jul 2022 05:20:53 GMT</pubDate>
+    <pubDate>Wed, 19 Oct 2022 18:17:29 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
+    <item>
+      <title>Oracle Coherence Java 14.1.1.0.11</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=34545599</link>
+      <guid isPermaLink="false">34545599</guid>
+      <pubDate>Tue, 18 Oct 2022 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 14.1.1.2206.2 Feature Pack Cumulative Patch</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=34545600</link>
+      <guid isPermaLink="false">34545600</guid>
+      <pubDate>Tue, 18 Oct 2022 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 12.2.1.4.15</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=34545596</link>
+      <guid isPermaLink="false">34545596</guid>
+      <pubDate>Tue, 18 Oct 2022 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 12.2.1.3.20</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=34545595</link>
+      <guid isPermaLink="false">34545595</guid>
+      <pubDate>Tue, 18 Oct 2022 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Coherence .NET 14.1.1.0.10</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=34270642</link>
