@@ -3,8 +3,32 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Wed, 19 Apr 2023 14:33:00 GMT</pubDate>
+    <pubDate>Wed, 19 Jul 2023 14:41:14 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
+    <item>
+      <title>Oracle Coherence Java 14.1.1.0.14</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=35505236</link>
+      <guid isPermaLink="false">35505236</guid>
+      <pubDate>Tue, 18 Jul 2023 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 14.1.1.2206.5 Feature Pack Cumulative Patch</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=35505250</link>
+      <guid isPermaLink="false">35505250</guid>
+      <pubDate>Tue, 18 Jul 2023 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence C++ 14.1.1.0.14</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=35532483</link>
+      <guid isPermaLink="false">35532483</guid>
+      <pubDate>Tue, 18 Jul 2023 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence Java 12.2.1.4.18</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=35505207</link>
+      <guid isPermaLink="false">35505207</guid>
+      <pubDate>Tue, 18 Jul 2023 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Coherence Java 14.1.1.0.13</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=35122412</link>
