@@ -3,7 +3,7 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Wed, 17 Apr 2024 19:22:49 GMT</pubDate>
+    <pubDate>Fri, 19 Apr 2024 15:20:00 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
     <item>
       <title>Oracle Coherence Java 14.1.1.0.17</title>
@@ -15,6 +15,12 @@
       <title>Oracle Coherence Java 14.1.1.2206.8 Feature Pack Cumulative Patch</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=36410371</link>
       <guid isPermaLink="false">36410371</guid>
+      <pubDate>Tue, 16 Apr 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle Coherence .NET 14.1.1.0.17</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=36472693</link>
+      <guid isPermaLink="false">36472693</guid>
       <pubDate>Tue, 16 Apr 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
