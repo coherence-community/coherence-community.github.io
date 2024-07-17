@@ -3,8 +3,14 @@
   <channel>
     <title>Coherence Releases Feed</title>
     <description>Coherence Releases</description>
-    <pubDate>Wed, 17 Jul 2024 18:29:04 GMT</pubDate>
+    <pubDate>Wed, 17 Jul 2024 23:37:21 GMT</pubDate>
     <generator>https://coherence-community.github.io/</generator>
+    <item>
+      <title>Oracle Coherence C++ 14.1.1.0.18</title>
+      <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=36793025</link>
+      <guid isPermaLink="false">36793025</guid>
+      <pubDate>Wed, 17 Jul 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Coherence Java 14.1.1.0.18</title>
       <link>https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=36725968</link>
