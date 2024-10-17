@@ -119,6 +119,11 @@
             "date": "2024-07-16"
           },
           {
+            "version": "14.1.1.0.19",
+            "number": "37049917",
+            "date": "2024-10-15"
+          },
+          {
             "version": "14.1.1.2206.2 Feature Pack Cumulative Patch",
             "number": "34545600",
             "date": "2022-10-18"
@@ -157,6 +162,11 @@
             "version": "14.1.1.2206.9 Feature Pack Cumulative Patch",
             "number": "36725985",
             "date": "2024-07-16"
+          },
+          {
+            "version": "14.1.1.2206.10 Feature Pack Cumulative Patch",
+            "number": "37049936",
+            "date": "2024-10-15"
           }
         ]
       },
@@ -388,6 +398,11 @@
             "version": "12.2.1.4.22",
             "number": "36725924",
             "date": "2024-07-16"
+          },
+          {
+            "version": "12.2.1.4.23",
+            "number": "37049907",
+            "date": "2024-10-15"
           }
         ]
       },
