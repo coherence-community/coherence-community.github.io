@@ -1,6 +1,88 @@
 [
   {
     "name": "Oracle Coherence",
+    "version": "14.1.2.0.0",
+    "date": "2024-12-23",
+    "productUrl": "https://www.oracle.com/middleware/technologies/coherence-downloads.html",
+    "documentationUrl": "https://docs.oracle.com/en/middleware/fusion-middleware/coherence/14.1.2/index.html",
+    "platforms": [
+      {
+        "name": "Java",
+        "fileUrl": "https://www.oracle.com/middleware/technologies/coherence-downloads.html",
+        "downloads": [
+          {
+            "name": "WebLogic Server and Coherence Install",
+            "file": "V1045131-01.zip"
+          },
+          {
+            "name": "Coherence Stand-Alone Install",
+            "file": "V1045133-01.zip"
+          },
+          {
+            "name": "Coherence Quick Install",
+            "file": "V1047088-01.zip"
+          },
+          {
+            "name": "Coherence Quick Install Supplemental",
+            "file": "V1047089-01.zip"
+          }
+        ],
+        "patches": [
+          {
+            "version": "14.1.2.0.1",
+            "number": "37351934",
+            "date": "2025-01-21"
+          }
+        ]
+      },
+      {
+        "name": ".NET",
+        "fileUrl": "https://www.oracle.com/middleware/technologies/coherence-downloads.html",
+        "downloads": [
+          {
+            "name": "Coherence Client for .NET",
+            "file": "coherence.14.1.2.nupkg"
+          },
+          {
+            "name": "Coherence .NET extend client Session Store (ASP.NET)",
+            "file": "coherence.sessionstore.14.1.2.nupkg"
+          }
+        ],
+        "patches": [
+        ]
+      },
+      {
+        "name": "C++",
+        "fileUrl": "https://www.oracle.com/middleware/technologies/coherence-downloads.html",
+        "downloads": [
+          {
+            "name": "Coherence Client for C++: Linux, 32-bit x86",
+            "file": "coherence-cpp-14.1.2.0.0b112740-linux-x86-gcc.zip"
+          },
+          {
+            "name": "Coherence Client for C++: Linux, 64-bit x64",
+            "file": "coherence-cpp-14.1.2.0.0b112740-linux-x64-gcc.zip"
+          },
+          {
+            "name": "Coherence Client for C++: Apple macOS, 64-bit",
+            "file": "coherence-cpp-14.1.2.0.0b112740-linux-aarch64-gcc.zip"
+          },
+          {
+            "name": "Coherence Client for C++: Microsoft Windows, 32-bit x86",
+            "file": "coherence-cpp-14.1.2.0.0b112740-windows-x86-msvc.zip"
+          },
+          {
+            "name": "Coherence Client for C++: Microsoft Windows, 64-bit x64",
+            "file": "coherence-cpp-14.1.2.0.0b112740-windows-x64-msvc.zip"
+          }
+        ],
+        "patches": [
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oracle Coherence",
     "version": "14.1.1.0.0",
     "date": "2020-03-30",
     "productUrl": "https://www.oracle.com/middleware/technologies/coherence-downloads.html",
