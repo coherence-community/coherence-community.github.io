@@ -37,6 +37,11 @@
             "version": "14.1.2.0.2",
             "number": "37658370",
             "date": "2025-04-29"
+          },
+          {
+            "version": "14.1.2.0.3",
+            "number": "38018960",
+            "date": "2025-07-15"
           }
         ]
       },
@@ -221,6 +226,11 @@
             "date": "2025-04-15"
           },
           {
+            "version": "14.1.1.0.22",
+            "number": "38018958",
+            "date": "2025-07-15"
+          },
+          {
             "version": "14.1.1.2206.2 Feature Pack Cumulative Patch",
             "number": "34545600",
             "date": "2022-10-18"
@@ -274,6 +284,11 @@
             "version": "14.1.1.2206.12 Feature Pack Cumulative Patch",
             "number": "37658354",
             "date": "2025-04-15"
+          },
+          {
+            "version": "14.1.1.2206.13 Feature Pack Cumulative Patch",
+            "number": "38018959",
+            "date": "2025-07-15"
           }
         ]
       },
@@ -520,6 +535,11 @@
             "version": "12.2.1.4.25",
             "number": "37658278",
             "date": "2025-04-15"
+          },
+          {
+            "version": "12.2.1.4.26",
+            "number": "38018956",
+            "date": "2025-07-15"
           }
         ]
       },
