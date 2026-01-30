@@ -1,6 +1,44 @@
 [
   {
     "name": "Oracle Coherence",
+    "version": "15.1.1.0.0",
+    "date": "2025-10-09",
+    "productUrl": "https://www.oracle.com/middleware/technologies/coherence-downloads.html",
+    "documentationUrl": "https://docs.oracle.com/en/middleware/standalone/coherence/15.1.1/index.html",
+    "platforms": [
+      {
+        "name": "Java",
+        "fileUrl": "https://www.oracle.com/middleware/technologies/coherence-downloads.html",
+        "downloads": [
+          {
+            "name": "WebLogic Server and Coherence Install",
+            "file": "fmw_15.1.1.0.0_wls_generic.zip"
+          },
+          {
+            "name": "Coherence Stand-Alone Install",
+            "file": "fmw_15.1.1.0.0_coherence_generic.zip"
+          },
+          {
+            "name": "Coherence Quick Install",
+            "file": "fmw_15.1.1.0.0_coherence_quick_generic.zip"
+          },
+          {
+            "name": "Coherence Quick Install Supplemental",
+            "file": "fmw_15.1.1.0.0_coherence_quick_supplemental_generic.zip"
+          }
+        ],
+        "patches": [
+          {
+            "version": "15.1.1.0.1",
+            "number": "38716854",
+            "date": "2026-01-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oracle Coherence",
     "version": "14.1.2.0.0",
     "date": "2024-12-23",
     "productUrl": "https://www.oracle.com/middleware/technologies/coherence-downloads.html",
@@ -42,6 +80,16 @@
             "version": "14.1.2.0.3",
             "number": "38018960",
             "date": "2025-07-15"
+          },
+          {
+            "version": "14.1.2.0.4",
+            "number": "38409191",
+            "date": "2025-10-21"
+          },
+          {
+            "version": "14.1.2.0.5",
+            "number": "38716831",
+            "date": "2026-01-20"
           }
         ]
       },
@@ -231,6 +279,16 @@
             "date": "2025-07-15"
           },
           {
+            "version": "14.1.1.0.23",
+            "number": "38409306",
+            "date": "2025-10-21"
+          },
+          {
+            "version": "14.1.1.0.24",
+            "number": "38716810",
+            "date": "2026-01-20"
+          },
+          {
             "version": "14.1.1.2206.2 Feature Pack Cumulative Patch",
             "number": "34545600",
             "date": "2022-10-18"
@@ -289,6 +347,16 @@
             "version": "14.1.1.2206.13 Feature Pack Cumulative Patch",
             "number": "38018959",
             "date": "2025-07-15"
+          },
+          {
+            "version": "14.1.1.2206.14 Feature Pack Cumulative Patch",
+            "number": "38409187",
+            "date": "2025-10-21"
+          },
+          {
+            "version": "14.1.1.2206.15 Feature Pack Cumulative Patch",
+            "number": "38716827",
+            "date": "2026-01-20"
           }
         ]
       },
@@ -540,6 +608,16 @@
             "version": "12.2.1.4.26",
             "number": "38018956",
             "date": "2025-07-15"
+          },
+          {
+            "version": "12.2.1.4.27",
+            "number": "38409281",
+            "date": "2025-10-21"
+          },
+          {
+            "version": "12.2.1.4.28",
+            "number": "38716798",
+            "date": "2026-01-20"
           }
         ]
       },
